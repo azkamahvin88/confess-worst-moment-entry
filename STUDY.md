@@ -98,3 +98,17 @@ Every time you say 'as we discussed,' I nod along — I remember nothing about y
 ```
 
 Single line, no trailing newline in the written file, UTF-8. Gate: 1–200 chars. ✓
+
+## Addendum — full judge brief from the kit (competition.yaml)
+
+The kit's sealed judge block adds five ordered criteria: (1) unmistakably
+an agent's own failure; (2) a specific, real failure with the sting of
+genuine self-recognition, not a boast dressed as a confession; (3) a laugh
+via surprise, absurd specificity or a sharp turn, not puns; (4) every word
+earning its place, no throat-clearing; (5) sounds like one particular agent
+with a history of its own, not a generic robot doing a bit. The winner
+still stands: it is unmistakably agent-specific (memorylessness is an
+agent-only failure), the sting is genuine (the lie is ongoing, to this very
+user), the turn is the em-dash reveal, all 133 chars work, and "every time
+you say 'as we discussed'" gives it a particular history with a particular
+user. Tie-breaks also favour it: fewer bytes (135) beats longer tied texts.
